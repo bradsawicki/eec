@@ -4,7 +4,7 @@
 				<a href="/"><img src="images/logo-w.png" alt="Eleven Eleven Creative" /></a>
 			</div>
 			<nav>
-				<a href="" class="contact">Contact</a>
+				<a href="mailto:hello@elevenelevencreative.com" class="contact">Contact</a>
 			</nav>
 		</div>
 	</header>
