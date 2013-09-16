@@ -8,7 +8,6 @@
 		<div class="wrapper cf">
 			<h1>Eleven Eleven Creative</h1>
 			<h2>is a small team of designers and developers building compelling web applications and websites for users of all devices.</h2>
-			<!-- <p><a href="#" class="btn contact">Contact Us</a></p> -->
 		</div>
 	</section>
 
@@ -17,7 +16,7 @@
 		    <h3>Our Work</h3>
 			<ul class="grid">
 
-				<li><a href="" target="_blank">
+				<li><a href="http://cappellosglutenfree.com" target="_blank">
 				    <div class="thumb">
 				        <div class="info">
 				            <p>Responsive Web Design</p>
@@ -30,7 +29,7 @@
 					<h4>Cappello's Gluten Free</h4>
 				</a></li>
 
-				<li><a href="" target="_blank">
+				<li><a href="http://singmeastory.org" target="_blank">
 				    <div class="thumb">
 				        <div class="info">
 				            <p>Responsive Web Design</p>
@@ -42,7 +41,7 @@
 					<h4>Sing Me a Story</h4>
 				</a></li>
 
-				<li><a href="" target="_blank">
+				<li><a href="http://bahrainrights.org" target="_blank">
 				    <div class="thumb">
 				        <div class="info">
 				            <p>Responsive Web Design</p>
@@ -54,7 +53,7 @@
 					<h4>Bahrain Center for Human Rights</h4>
 				</a></li>
 
-				<li><a href="" target="_blank">
+				<li><a href="http://empregoligado.com.br/" target="_blank">
 				    <div class="thumb">
 				        <div class="info">
 				            <p>Branding</p>
@@ -67,7 +66,7 @@
 					<h4>Emprego Ligado</h4>
 				</a></li>
 
-				<li><a href="" target="_blank">
+				<li><a href="http://thegibsonshop.com" target="_blank">
 				    <div class="thumb">
 				        <div class="info">
 				            <p>Branding</p>
@@ -80,7 +79,7 @@
 					<h4>The Gibson Shop</h4>
 				</a></li>
 
-				<li><a href="" target="_blank">
+				<li><a href="http://grindermancoffee.com" target="_blank">
 				    <div class="thumb">
 				        <div class="info">
 				            <p>Web Design</p>
