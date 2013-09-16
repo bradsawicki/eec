@@ -6,6 +6,15 @@ font-family: 'Ideal Sans A', 'Ideal Sans B';
 black: 2f2f2f
 red: f04e2a
 dk grey: 404040
+
+Grid - 6 Col Grid
+gutter: 4.5%;
+2 col: 30.3333%
+
+Thumbs:
+364x243
+564x277
+
 */
 
 body {
@@ -336,42 +345,71 @@ button:hover {
     HOME
 ========================================================**/
 
-.thumbs li {
+.grid li {
 	float: left;
 	width: 28%;
-	width: 30%;
-	margin: 1.5em 5% 1.5em 0;
+	width: 30.333%;
+	margin: 1.5em 4.5% 1.5em 0;
 }
 
-.thumbs li:nth-child(3n) {
+.grid li:nth-child(3n) {
 	margin-right: 0;
 }
 
-.thumbs li:nth-child(3n+1) {
+.grid li:nth-child(3n+1) {
 	clear: left;
 }
 
-.thumbs a {
+.grid a {
 	display: block;
 }
 
-.thumbs a:hover {
+.grid a:hover {
     color: #f04e2a;
 }
 
-.thumbs img {
-	margin-bottom: 1em;
-}
-
-.thumbs h4 {
+.grid h4 {
     font-weight: 600;
 	font-size: 1.3em;
 }
 
-.thumbs p {
-	color: #71716e;
-	font-size: 1em;
-	font-style: italic;
+.grid .thumb {
+    position: relative;
+	margin-bottom: 1em;
+    text-align: center;
+}
+
+.grid .info {
+    opacity: 0;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    padding-top: 3em;
+    background: rgba(0,0,0,0.8);
+    color: #fff;
+	-webkit-transition: all 0.2s ease-in-out;
+	-moz-transition: all 0.2s ease-in-out;
+	-ms-transition: all 0.2s ease-in-out;
+	-o-transition: all 0.2s ease-in-out;
+}
+
+.grid .thumb:hover .info {
+    opacity: 1;
+}
+
+.grid p {
+    font-size: 1.25em;
+    line-height: 1.5em;
+}
+
+.grid p:last-of-type {
+    margin-bottom: 1em;
+}
+
+.grid .info .btn {
+    font-size: 1.125em;
 }
 
 
