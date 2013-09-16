@@ -24,7 +24,7 @@
 				            <p>E-commerce</p>
 				            <div class="btn">Visit Site</div>
 				        </div>
-					    <img src="images/thumb_cappellos.jpg" alt="Cappello's Gluten Free" />
+					    <img src="images/thumb_cappellos.png" alt="Cappello's Gluten Free" />
 				    </div>
 					<h4>Cappello's Gluten Free</h4>
 				</a></li>
@@ -36,7 +36,7 @@
 				            <p>Ruby on Rails Development</p>
 				            <div class="btn">Visit Site</div>
 				        </div>
-					    <img src="images/thumb_smas.jpg" alt="Sing Me a Story" />
+					    <img src="images/thumb_smas.png" alt="Sing Me a Story" />
 				    </div>
 					<h4>Sing Me a Story</h4>
 				</a></li>
@@ -53,19 +53,6 @@
 					<h4>Bahrain Center for Human Rights</h4>
 				</a></li>
 
-				<li><a href="http://empregoligado.com.br/" target="_blank">
-				    <div class="thumb">
-				        <div class="info">
-				            <p>Branding</p>
-				            <p>Web Design</p>
-				            <p>Drupal Development</p>
-				            <div class="btn">Visit Site</div>
-				        </div>
-					    <img src="images/thumb_emprego.png" alt="Emprego Ligado" />
-				    </div>
-					<h4>Emprego Ligado</h4>
-				</a></li>
-
 				<li><a href="http://thegibsonshop.com" target="_blank">
 				    <div class="thumb">
 				        <div class="info">
@@ -77,6 +64,19 @@
 					    <img src="images/thumb_gibson.png" alt="The Gibson Shop" />
 				    </div>
 					<h4>The Gibson Shop</h4>
+				</a></li>
+
+				<li><a href="http://empregoligado.com.br/" target="_blank">
+				    <div class="thumb">
+				        <div class="info">
+				            <p>Branding</p>
+				            <p>Web Design</p>
+				            <p>Drupal Development</p>
+				            <div class="btn">Visit Site</div>
+				        </div>
+					    <img src="images/thumb_emprego.png" alt="Emprego Ligado" />
+				    </div>
+					<h4>Emprego Ligado</h4>
 				</a></li>
 
 				<li><a href="http://grindermancoffee.com" target="_blank">
