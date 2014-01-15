@@ -16,6 +16,20 @@
 		    <h3>Our Work</h3>
 			<ul class="grid">
 
+				<li><a href="http://theeverygirl.com" target="_blank">
+				    <div class="thumb">
+				        <div class="info">
+				            <p>Branding</p>
+				            <p>Responsive Web Design</p>
+				            <p>Drupal Development</p>
+				            <p>E-commerce</p>
+				            <div class="btn">Visit Site</div>
+				        </div>
+					    <img src="images/thumb_everygirl.png" alt="The Everygirl" />
+				    </div>
+					<h4>The Everygirl</h4>
+				</a></li>
+
 				<li><a href="http://cappellosglutenfree.com" target="_blank">
 				    <div class="thumb">
 				        <div class="info">
@@ -45,6 +59,18 @@
 				    <div class="thumb">
 				        <div class="info">
 				            <p>Responsive Web Design</p>
+				            <p>Development</p>
+				            <div class="btn">Visit Site</div>
+				        </div>
+					    <img src="images/thumb_fourkites.png" alt="Fourkites" />
+				    </div>
+					<h4>Fourkites</h4>
+				</a></li>
+
+				<li><a href="http://bahrainrights.org" target="_blank">
+				    <div class="thumb">
+				        <div class="info">
+				            <p>Responsive Web Design</p>
 				            <p>Drupal Development</p>
 				            <div class="btn">Visit Site</div>
 				        </div>
@@ -53,6 +79,7 @@
 					<h4>Bahrain Center for Human Rights</h4>
 				</a></li>
 
+<!--
 				<li><a href="http://thegibsonshop.com" target="_blank">
 				    <div class="thumb">
 				        <div class="info">
@@ -78,6 +105,7 @@
 				    </div>
 					<h4>Emprego Ligado</h4>
 				</a></li>
+-->
 
 				<li><a href="http://grindermancoffee.com" target="_blank">
 				    <div class="thumb">

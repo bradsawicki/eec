@@ -363,6 +363,10 @@ button:hover {
     opacity: 1;
 }
 
+.grid li:first-child .info {
+    padding-top: 1.5em;
+}
+
 .grid p {
     font-size: 1.25em;
     line-height: 1.5em;
@@ -413,7 +417,8 @@ footer li {
 /** MEDIA QUERIES
 ========================================================****/
 
-@media all and (max-width: 920px) {
+
+@media all and (max-width: 1100px) {
 	.hero { font-size: 87.5%; }
 	.hero .wrapper { padding: 2em 0 3em; }
 	.grid li { width: 47.75%; margin: 1.5em 4.5% 1.5em 0; }
