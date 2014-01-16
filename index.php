@@ -55,7 +55,7 @@
 					<h4>Sing Me a Story</h4>
 				</a></li>
 
-				<li><a href="http://bahrainrights.org" target="_blank">
+				<li><a href="http://fourkites.com" target="_blank">
 				    <div class="thumb">
 				        <div class="info">
 				            <p>Responsive Web Design</p>
@@ -112,6 +112,7 @@
 				        <div class="info">
 				            <p>Web Design</p>
 				            <p>Wordpress Development</p>
+				            <p>E-commerce</p>
 				            <div class="btn">Visit Site</div>
 				        </div>
 					    <img src="images/thumb_grinderman.jpg" alt="Grinderman Coffee" />
