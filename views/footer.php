@@ -1,6 +1,6 @@
 	<footer class="cf">
 		<div class="wrapper cf">
-			<p class="copyright">&copy;<?php echo date('Y'); ?> Eleven Eleven Creative Co. / Chicago, IL 60622 / <a href="mailto:hello@elevenelevencreative.com">hell0@elevenelevencreative.com</a></p>
+			<p class="copyright">&copy;<?php echo date('Y'); ?> Eleven Eleven Creative Co. / Chicago, IL 60622 / <a href="mailto:hello@elevenelevencreative.com">hello@elevenelevencreative.com</a></p>
 			<ul class="social cf">
 				<li><a href="mailto:hello@elevenelevencreative.com" target="_blank" class="ss-icon ss-social-circle">email</a></li>
 				<li><a href="https://twitter.com/1111creative" target="_blank" class="ss-icon ss-social-circle">twitter</a></li>
