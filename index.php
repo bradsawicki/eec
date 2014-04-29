@@ -55,6 +55,19 @@
 					<h4>Sing Me a Story</h4>
 				</a></li>
 
+				<li><a href="http://trespupusas.com/" target="_blank">
+				    <div class="thumb">
+				        <div class="info">
+				            <p>Responsive Web Design</p>
+				            <p>Drupal Development</p>
+				            <p>E-commerce</p>
+				            <div class="btn">Visit Site</div>
+				        </div>
+					    <img src="images/thumb_tres_latin.png" alt="Tres Latin Foods" />
+				    </div>
+					<h4>Tres Latin Foods</h4>
+				</a></li>
+
 				<li><a href="http://fourkites.com" target="_blank">
 				    <div class="thumb">
 				        <div class="info">
@@ -66,6 +79,7 @@
 				    </div>
 					<h4>Fourkites</h4>
 				</a></li>
+
 
 				<li><a href="http://bahrainrights.org" target="_blank">
 				    <div class="thumb">
@@ -105,7 +119,6 @@
 				    </div>
 					<h4>Emprego Ligado</h4>
 				</a></li>
--->
 
 				<li><a href="http://grindermancoffee.com" target="_blank">
 				    <div class="thumb">
@@ -119,7 +132,7 @@
 				    </div>
 					<h4>Grinderman Coffee</h4>
 				</a></li>
-
+-->
 			</ul>
 		</div>
 	</section>
